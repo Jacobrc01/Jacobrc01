@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on: A webapp for tutor events & a climate control system using Arduino + Raspberry Pi.<br>- 🌱 I’m learning: React, Tailwind CSS, C++ OOP and algorithms.<br>- 💬 Ask me about: Embedded systems, Git, Flask, C++, and summer road trips 🇮🇹<br>- ⚡ Fun fact: I once sled down the side of an active volcano 🌋
+- 🔭 I’m currently working on exciting coding projects! :D <br>- ⚡ Fun fact: I once sled down the side of an active volcano 🌋
 
 
 ## 🌐 Socials:
