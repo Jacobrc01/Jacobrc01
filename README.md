@@ -15,10 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacobrc01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-
 #### 💰 You can help me by Donating
-[![BuyMeACoffee](buymeacoffee.com/Jacobrc01) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-yellow?style=flat)](https://www.buymeacoffee.com/Jacobrc01)
